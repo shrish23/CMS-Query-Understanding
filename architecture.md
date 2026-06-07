@@ -34,14 +34,14 @@ The implemented pipeline combines **dense semantic search** (`BAAI/bge-large-en-
 ### Why hybrid retrieval + rerank, not plain embeddings?
 
 - **BM25 catches what dense misses**: exact-token queries ("CRNA anesthesia", "PT shoulder") score near-zero in embedding space if the phrasing is rare in the pre-training corpus. BM25 recovers them via exact term overlap.
-- **RRF fusion is calibration-free**: Reciprocal Rank Fusion merges the dense and sparse ranked lists using only rank positions (`1 / (k + rank)`), eliminating the need to calibrate incompatible score scales (cosine ∈ [-1,1] vs. BM25 ∈ [0, ∞]).
+- **RRF fusion is calibration-free**: Reciprocal Rank Fusion merges the dense and sparse ranked lists using only rank positions (`1 / (k + rank)`), eliminating the need to calibrate incompatible score scales.
 - **Cross-encoder precision**: the bi-encoder produces approximate semantic similarity. The cross-encoder (`ms-marco-MiniLM-L-6-v2`) attends jointly to query and candidate, resolving subtle distinctions (e.g., "spine pain" → Orthopedic Surgery vs. Neurosurgery) that the bi-encoder conflates.
 - **Max-pool class aggregation**: scoring at the class level via `max(CE score)` rather than sum avoids artificially rewarding classes with more training examples. Combined with a mean-top-M and support-bonus term, the final score is robust to outlier candidates.
 
 ## Evaluation of retrieval + embeddings approach and classifier (TF-IDF + Logistic Regression) on holdout set
 
 - The holdout set was generated with a different LLM, so this comparison reflects how well each approach generalizes to unseen synthetic phrasing rather than memorizing the training generator.
-- Retrieval + embeddings outperforms TF-IDF + Logistic Regression across every metric in the table, with the largest gap in Top-3 Accuracy, which is the most relevant measure for a ranked specialty recommendation system.
+- Retrieval + embeddings outperforms TF-IDF + Logistic Regression (https://github.com/shrish23/CMS-Query-Classifier) across every metric in the table, with the largest gap in Top-3 Accuracy, which is the most relevant measure for a ranked specialty recommendation system.
 
 | System | Top-1 Accuracy | Top-3 Accuracy | MRR@3 | Macro F1 | Weighted F1 |
 | --- | --- | --- | --- | --- | --- |
