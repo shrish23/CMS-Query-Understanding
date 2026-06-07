@@ -67,6 +67,7 @@ def dense_retrieve(
     query: str,
     embed_model: SentenceTransformer,
     faiss_index: faiss.Index,
+    metadata: list[dict],
     top_k: int,
     query_instruction: str = "",
 ) -> list[tuple[int, float]]:
@@ -85,6 +86,7 @@ def dense_retrieve(
 def sparse_retrieve(
     query: str,
     bm25: Any,
+    metadata: list[dict],
     top_k: int,
 ) -> list[tuple[int, float]]:
     """Tokenize query and run BM25. Returns [(metadata_idx, bm25_score), ...]."""
