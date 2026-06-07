@@ -1,0 +1,16 @@
+{
+  "embedding_model": "BAAI/bge-large-en-v1.5",
+  "embedding_query_instruction": "Represent this sentence: ",
+  "faiss_index_type": "IndexFlatIP",
+  "num_classes": 50,
+  "num_samples": 1500,
+  "bm25_params": {
+    "k1": 1.2,
+    "b": 0.3,
+    "epsilon": 0.25
+  },
+  "top_k_retrieval": 50,
+  "rrf_k_constant": 60,
+  "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "rerank_top_n": 50
+}

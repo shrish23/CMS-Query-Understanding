@@ -1,0 +1,7502 @@
+[
+  {
+    "query": "How do I become a certified clinical nurse specialist?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "Can a nurse specialist help with chronic pain management?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "I'm feeling dizzy and need advice on next steps.",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "What should I do if I have persistent nausea?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "Is a nurse specialist the right choice for my condition?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "How can I find a certified nurse specialist near me?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "I'm struggling with depression and need support.",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "What are the signs of a serious infection?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "I have trouble breathing and am worried.",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "How do I prepare for a nurse specialist consultation?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "I'm concerned about my daughter's frequent illnesses.",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "What does a nurse specialist do exactly?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "I'm experiencing severe headaches and fatigue.",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "How can I get certified as a clinical nurse specialist?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "I need help with medication management.",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "What if my symptoms don't improve with treatment?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "I'm dealing with anxiety and need guidance.",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "How can I talk to a nurse specialist about my health?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "I have diabetes and need more care options.",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "What if I'm not feeling well after surgery?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "I'm worried about my elderly parent's health.",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "How do I know if I need a nurse specialist?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "I'm having trouble sleeping and feel exhausted.",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "What should I do if I'm not improving with care?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "I'm concerned about my child's school performance.",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "How can a nurse specialist help with mental health?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "I'm experiencing chest pain and need immediate help.",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "What if I don't have health insurance?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "I'm worried about my immune system.",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "How can I manage my chronic condition better?",
+    "class": "Certified Clinical Nurse Specialist",
+    "class_id": 8
+  },
+  {
+    "query": "fever and fatigue for two weeks",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "chest pain and shortness of breath",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "headache and nausea for three days",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "confused and tired all the time",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "persistent cough with mucus",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "difficulty sleeping and weight loss",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "stomach pain and bloating",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "itchy skin and rashes",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "back pain that won't go away",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "swollen legs and fluid retention",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "dry cough with no fever",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "memory loss and confusion",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "unexplained weight loss and hunger",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "nausea and vomiting without diarrhea",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "dark circles under eyes and fatigue",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "joint pain and stiffness",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "night sweats and fever",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "difficulty concentrating and anxiety",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "skin rash and fever",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "sudden weight loss and appetite changes",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "heartburn and acid reflux",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "loss of appetite and bloating",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "constant fatigue and dizziness",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "leg swelling and pain",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "persistent headache and vision changes",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "fever with chills and body aches",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "stomach cramps and gas",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "confusion and memory issues",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "nighttime urination and thirst",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "chest discomfort and palpitations",
+    "class": "Internal Medicine",
+    "class_id": 22
+  },
+  {
+    "query": "My knee hurts and I think it's a sprain",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019ve been having pain in my lower back for weeks",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I need help with a broken arm after a fall",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "My hand is swollen and I can\u2019t move it",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I think I have a dislocated shoulder",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019m experiencing stomach pain and nausea",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019ve been feeling dizzy and nauseous",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I have a persistent cough and chest pain",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019m worried about a heart attack symptoms",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019ve been having trouble breathing and chest pain",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I think I might have a gallbladder issue",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I have a severe headache and vision problems",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019m concerned about a stroke symptoms",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019ve been feeling weak and confused",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I have a fever and body aches",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I think I have the flu symptoms",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019m having trouble with my digestion",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I feel bloated and have constipation",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019ve been having pain in my right side",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I think I have a kidney stone",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019m experiencing pain in my testicles",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I have a swollen and tender knee",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I think I have a torn ACL",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019m having pain in my shoulder and arm",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I have a lump on my neck that\u2019s painful",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019m concerned about a lump in my throat",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I think I have a wisdom tooth infection",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019ve been having pain in my lower abdomen",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I feel pressure in my lower back",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "I\u2019m having trouble with my urine flow",
+    "class": "General Surgery",
+    "class_id": 18
+  },
+  {
+    "query": "my child has a high fever and cough",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "runny nose and sore throat in toddler",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "fever with rash on face",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "child not eating and acting fussy",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "babies with colic symptoms",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "fever and diarrhea in young child",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "child is lethargic and irritable",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "toddler has a persistent cough",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "fever in 2-year-old with no other symptoms",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "child with vomiting and fever",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "baby has a skin rash and fever",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "child not sleeping well lately",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "fever and chills in a 3-year-old",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "child with a runny nose and congestion",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "fever in a 5-year-old with no other issues",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "toddler has a stiff neck and fever",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "child with a sore throat and fever",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "fever and headache in a child",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "baby has a fever and seems sick",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "child with a fever and swollen glands",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "fever in a child with no known illness",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "toddler is acting weird and has a fever",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "child with a fever and no appetite",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "fever and body aches in a young child",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "child has a fever and is crying a lot",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "baby with a fever and trouble breathing",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "fever in a child with a rash",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "child with a fever and diarrhea",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "fever and vomiting in a 4-year-old",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "toddler has a fever and is tired",
+    "class": "Pediatric Medicine",
+    "class_id": 37
+  },
+  {
+    "query": "anxiety and depression symptoms",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "stress management techniques",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "depression and low energy",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "difficulty sleeping and worry",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "overthinking and restlessness",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "feeling hopeless and overwhelmed",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "relationship problems and mental health",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "chronic stress and fatigue",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "loss of interest in activities",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "social anxiety and isolation",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "troubled thoughts and panic attacks",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "difficulty concentrating and mood swings",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "chronic worry and tension",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "sleep issues and emotional pain",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "loneliness and emotional distress",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "uncontrolled anger and irritability",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "memory problems and confusion",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "feeling disconnected from others",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "sadness and emotional numbness",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "persistent sadness and fatigue",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "troubled sleep and mood changes",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "anxiety about everyday situations",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "emotional instability and mood swings",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "feelings of worthlessness and guilt",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "social withdrawal and emotional pain",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "difficulty coping with stress",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "emotional numbness and emptiness",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "persistent fear and anxiety",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "troubled thoughts and emotional pain",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "emotional overload and burnout",
+    "class": "Psychologist, Clinical",
+    "class_id": 45
+  },
+  {
+    "query": "anxiety and memory problems",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "confusion with aging",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "feeling disconnected from others",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "mood changes with sleep issues",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "difficulty focusing and irritability",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "depression and trouble thinking",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "losing track of time",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "mental fog and mood swings",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "sadness with physical symptoms",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "memory loss and mood changes",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "feeling anxious without a clear reason",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "headache with emotional stress",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "anger and withdrawal from friends",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "difficulty concentrating and sadness",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "mood swings and forgetfulness",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "feeling lonely and confused",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "trouble sleeping and emotional ups and downs",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "memory issues and emotional distress",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "anxiety with physical symptoms",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "sadness and difficulty making decisions",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "mood changes and brain fog",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "confusion and emotional instability",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "feeling depressed and forgetful",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "stress affecting mental clarity",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "emotional pain and cognitive issues",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "difficulty thinking and emotional problems",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "anxiety and emotional withdrawal",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "memory loss with emotional symptoms",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "mood swings and cognitive decline",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "feeling disconnected and emotional stress",
+    "class": "Neuropsychiatry",
+    "class_id": 26
+  },
+  {
+    "query": "I need a nurse practitioner for my diabetes management",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "My symptoms don\u2019t seem to improve, can a nurse practitioner help?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I\u2019ve been feeling weak and tired, should I see a nurse practitioner?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I need help with my medication management",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I\u2019m worried about my heart health, can a nurse practitioner assist?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I have trouble breathing, should I see a nurse practitioner?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I\u2019m looking for a nurse practitioner in my area",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I need advice on managing my asthma symptoms",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I have a skin rash, can a nurse practitioner help?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I\u2019m experiencing frequent headaches, what should I do?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I need help with a minor injury treatment",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I\u2019m not sure if I need a doctor or a nurse practitioner",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I have trouble sleeping, can a nurse practitioner help?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I need guidance on my chronic pain management",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I\u2019m concerned about my high blood pressure",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I need help with my mental health symptoms",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I have a minor infection, should I see a nurse practitioner?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I\u2019m looking for a nurse practitioner for routine checkups",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I need help with my postpartum care",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I have a persistent cough, what should I do?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I\u2019m not feeling well, can a nurse practitioner help?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I need assistance with my chronic kidney disease",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I have a sore throat, should I see a nurse practitioner?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I need help with my diabetes diet plan",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I\u2019m experiencing stomach pain, what should I do?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I need advice on my allergy symptoms",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I have a fever and chills, can a nurse practitioner help?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I\u2019m looking for a nurse practitioner for my child\u2019s care",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I need help with my hypertension management",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "I have a skin infection, should I see a nurse practitioner?",
+    "class": "Nurse Practitioner",
+    "class_id": 28
+  },
+  {
+    "query": "My blood test results show high white blood cells",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m worried about my abnormal liver enzymes",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I have a persistent cough and fatigue",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m concerned about a recent lump in my neck",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019ve had a fever for two weeks",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "My urine is dark and I feel tired",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m worried about a skin rash that\u2019s spreading",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019ve had headaches and nausea for days",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m concerned about my elevated creatinine levels",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m noticing blood in my urine",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019ve had trouble sleeping and weight loss",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m worried about a new growth on my skin",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019ve been feeling weak and have a sore throat",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m concerned about my recent blood pressure readings",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m worried about a lump under my arm",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019ve had a persistent stomach ache",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m concerned about my recent blood sugar levels",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m noticing unusual bruising",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019ve had a persistent cough and chest pain",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m worried about a recent change in my urine color",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m concerned about my recent blood test results",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019ve been feeling very tired and have aches",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m worried about a new skin lesion",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019ve had a strange taste in my mouth",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m concerned about my recent weight loss",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m noticing changes in my bowel movements",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019ve had a fever and chills for days",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m worried about a recent change in my vision",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019m concerned about my recent skin discoloration",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "I\u2019ve had a persistent headache and dizziness",
+    "class": "Pathology",
+    "class_id": 36
+  },
+  {
+    "query": "Looking for an occupational therapist in private practice for daily living help",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Need an occupational therapist in private practice for hand therapy",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Occupational therapist in private practice for stroke recovery",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Searching for occupational therapist in private practice for memory issues",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Occupational therapist in private practice for children with autism",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Need occupational therapist in private practice for chronic pain management",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Looking for occupational therapist in private practice for arthritis",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Occupational therapist in private practice for balance and coordination",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Seeking occupational therapist in private practice for mental health support",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Occupational therapist in private practice for occupational therapy for kids",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Need occupational therapist in private practice for work-related injuries",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Looking for occupational therapist in private practice for chronic fatigue",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Occupational therapist in private practice for aging in place",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Seeking occupational therapist in private practice for sensory integration",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Need occupational therapist in private practice for post-surgical rehab",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Occupational therapist in private practice for handwriting therapy",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Looking for occupational therapist in private practice for sleep disorders",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Occupational therapist in private practice for anxiety management",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Need occupational therapist in private practice for developmental delays",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Seeking occupational therapist in private practice for chronic illness",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Occupational therapist in private practice for vocational rehab",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Looking for occupational therapist in private practice for occupational therapy for adults",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Need occupational therapist in private practice for chronic neck pain",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Occupational therapist in private practice for workplace ergonomics",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Looking for occupational therapist in private practice for sensory processing",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Need occupational therapist in private practice for fine motor skills",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Occupational therapist in private practice for occupational therapy for seniors",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Looking for occupational therapist in private practice for chronic back pain",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Need occupational therapist in private practice for occupational therapy for children",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "Occupational therapist in private practice for occupational therapy for adults",
+    "class": "Occupational Therapist in Private Practice",
+    "class_id": 30
+  },
+  {
+    "query": "back pain after lifting heavy object",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "neck pain from computer work",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "shoulder pain and stiffness",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "chronic lower back pain",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "headaches from poor posture",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "hip pain after long walk",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "wrist pain from typing",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "morning stiffness in joints",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in right shoulder blade",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in lower back worsens when standing",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in left knee after running",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "feeling numb in fingers",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in upper back from sitting",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in knee that swells",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in elbow from repetitive motion",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in jaw from grinding teeth",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in foot after standing all day",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in shoulder that radiates",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in hip when bending",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in neck that radiates to arm",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in lower back during sex",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in elbow that clicks",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in knee that gives way",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in wrist that throbs",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in hip that aches",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in shoulder that limits movement",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in lower back that shoots",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in neck that feels tight",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in knee that burns",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "pain in shoulder that feels locked",
+    "class": "Chiropractic",
+    "class_id": 11
+  },
+  {
+    "query": "I'm experiencing heavy bleeding during my period",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "My period is late, what could it be?",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm worried about my irregular periods",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I have lower abdominal pain and cramps",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I think I might be pregnant, how do I know?",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm feeling tired and my period is late",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I have nausea and missed my period",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm concerned about my vaginal discharge",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I have a severe headache and back pain",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm having trouble sleeping and my period is late",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I have pain during intercourse",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm worried about ovarian cysts",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm experiencing pain in my lower back",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I have a white discharge with a strong odor",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm having trouble with my menstrual cycle",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I have a burning sensation when I urinate",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm concerned about my breast pain",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm having trouble getting pregnant",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I have heavy bleeding and clots",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm experiencing mood swings and fatigue",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I have a persistent sore throat",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm worried about endometriosis symptoms",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I have a dull ache in my lower abdomen",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm having trouble with my period flow",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I have a fever and lower abdominal pain",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm concerned about my pelvic pain",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm having irregular periods and mood changes",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I have a painful period with heavy bleeding",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I'm worried about my vaginal health",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "I have a bad smell from my vagina",
+    "class": "Obstetrics & Gynecology",
+    "class_id": 29
+  },
+  {
+    "query": "Physical therapist for back pain",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Looking for a physical therapist in my area",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Need help with knee pain recovery",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapy for shoulder injury",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Looking for private practice physical therapist",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapist for post-surgery rehab",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Need physical therapy for chronic pain",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapist near me for physical therapy",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Looking for physical therapy for sprains",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapist for hip replacement recovery",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapy for carpal tunnel",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Looking for physical therapist in private practice",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapist for lower back pain",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Need physical therapy for ankle injury",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapist for sports injury",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Looking for physical therapy for arthritis",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapist for neck pain",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Need physical therapy for sciatica",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapist for fibromyalgia",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Looking for physical therapist for rehab",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapist for shoulder pain",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Need physical therapy for elbow pain",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapist for wrist injury",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Looking for physical therapy for sciatica",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapist for chronic fatigue",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Need physical therapy for hand injury",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapist for plantar fasciitis",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Looking for physical therapist for posture issues",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Physical therapist for chronic neck pain",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "Need physical therapy for foot pain",
+    "class": "Physical Therapist in Private Practice",
+    "class_id": 39
+  },
+  {
+    "query": "fever and cough for two days",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "headache and fatigue lasting weeks",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "sore throat with swollen glands",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "stomachache and nausea after eating",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "dizziness and fainting spells",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "itchy rash on arms and legs",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "difficulty sleeping and anxiety",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "chronic back pain and stiffness",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "cold symptoms not improving",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "sudden weight loss and appetite changes",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "swollen feet and leg pain",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "irregular periods and mood swings",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "skin irritation and redness",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "nausea and vomiting after meals",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "joint pain and stiffness in morning",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "shortness of breath and chest tightness",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "unexplained bruising and fatigue",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "itchy skin and constant scratching",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "sudden nosebleeds and headaches",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "constipation and bloating for weeks",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "sudden memory loss and confusion",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "earache and muffled hearing",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "sudden mood changes and irritability",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "sore throat with white patches",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "sudden weight gain and swelling",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "feeling lightheaded and weak",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "sudden stomach cramps and gas",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "irritation and redness on face",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "sudden loss of balance and dizziness",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "sore joints and stiffness in hands",
+    "class": "Family Practice",
+    "class_id": 17
+  },
+  {
+    "query": "How can I prevent heart disease?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "Should I get a flu shot this year?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "What are the signs of a stroke?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "How to reduce high blood pressure?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "Can diet help with diabetes prevention?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "When should I start regular checkups?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "What are the best ways to stay healthy?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "How to avoid getting the common cold?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "What is a healthy weight range?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "How to lower cholesterol naturally?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "What are the symptoms of cancer?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "How to prevent osteoporosis?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "Should I take vitamin D supplements?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "How to avoid eye problems as I age?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "What are the best exercises for health?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "How to manage stress for better health?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "Can exercise prevent Alzheimer's?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "How to avoid colds in the winter?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "What are the risks of smoking?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "How to prevent falls in older adults?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "What are the symptoms of a heart attack?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "How to improve sleep quality?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "What are the best ways to stay active?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "How to prevent skin cancer?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "Should I get a colonoscopy?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "How to maintain good mental health?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "What are the signs of a stroke?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "How to prevent urinary tract infections?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "What are the benefits of regular exercise?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "How to avoid food poisoning?",
+    "class": "Preventive Medicine",
+    "class_id": 43
+  },
+  {
+    "query": "I need help with a knee injury after soccer",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "My shoulder hurts after throwing a ball",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019ve been having recurring ankle pain",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I sprained my ankle and it's still swollen",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "My hip pain is getting worse with walking",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I feel pain in my wrist after tennis",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019ve been dizzy and my balance is off",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019ve been having leg cramps at night",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "My elbow is stiff and painful in the morning",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019ve been sore in my neck after lifting weights",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I feel a popping sound in my knee",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I have pain in my lower back from running",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019m having trouble with my ankle stability",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019ve been experiencing shoulder pain during workouts",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I have numbness in my hand after exercising",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "My foot feels numb after running",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I have a knee injury and need advice",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019m dealing with chronic shoulder pain",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019ve been having lower back pain from basketball",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I feel stiffness in my joints after exercising",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I have a twisted ankle and it\u2019s not healing",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019m having pain in my shin after running",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019ve been having hip pain from cycling",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I feel pain in my elbow when I bend it",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I have a sore throat after working out",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019m dealing with a torn ACL",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019ve been having shoulder pain from overhead lifting",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I have a knee injury and need treatment",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019m experiencing pain in my wrist from typing",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "I\u2019ve been having lower back pain from soccer",
+    "class": "Sports Medicine",
+    "class_id": 48
+  },
+  {
+    "query": "Healthy eating for diabetes management",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Weight loss advice for busy adults",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Nutrition tips for digestive issues",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Low-carb diet for energy boost",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Healthy snacks for kids",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Diet plan for heart health",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Food recommendations for irritable bowel",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Weight gain solutions for women",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Diet for PCOS symptoms",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Nutrition for sleep improvement",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Healthy meals for athletes",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Eating well with food allergies",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Diet for high cholesterol",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Nutrition for morning fatigue",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Diet plan for joint pain",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Food ideas for constipation",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Healthy eating during pregnancy",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Diet for underactive thyroid",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Nutrition for stress management",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Eating well with food sensitivities",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Diet for acid reflux",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Healthy eating for teens",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Nutrition for menopause symptoms",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Diet for seasonal affective disorder",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Food suggestions for anemia",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Eating well with IBS",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Diet for chronic fatigue",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Nutrition for autoimmune conditions",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Healthy meal ideas for busy people",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "Diet for skin health",
+    "class": "Registered Dietitian or Nutrition Professional",
+    "class_id": 46
+  },
+  {
+    "query": "my chest hurts and I can't catch my breath",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I think I have a heart attack",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "fever and cough for three days",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "sudden severe headache and confusion",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "leg swelling and shortness of breath",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "pain in my left arm and nausea",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "difficulty breathing and chest pain",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I'm feeling dizzy and my hands are shaking",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "stomach pain and vomiting",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "sudden severe pain in my lower back",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I can't stop bleeding from a cut",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "my eyes are blurry and I'm seeing spots",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I've been dizzy for a day and feel weak",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I have a high fever and chills",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "severe pain in my jaw and face",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I'm experiencing nosebleeds often",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I'm having trouble moving my right arm",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I can't feel my toes and it's numb",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "sudden loss of vision in one eye",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I'm really tired and my heart feels irregular",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I have a rash and a fever",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I'm having trouble speaking clearly",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I'm very short of breath and anxious",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I'm bleeding heavily from a wound",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I'm not able to walk straight",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I'm having chest pain and my blood pressure is low",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I'm experiencing severe nausea and vomiting",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I have a stiff neck and a high fever",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I'm having trouble hearing and confusion",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "I'm having a severe headache and neck pain",
+    "class": "Emergency Medicine",
+    "class_id": 16
+  },
+  {
+    "query": "Broken leg treatment options",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Pain in my knee after sports",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Shoulder pain and limited movement",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Fractured wrist recovery time",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Back pain from sitting too long",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Knee swelling and stiffness",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Hip pain when walking",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Sprained ankle care tips",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Osteoarthritis symptoms",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Torn ACL treatment",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Surgery for hip replacement",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Leg numbness and weakness",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Knee clicking during movement",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Broken bone healing time",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Shoulder dislocation recovery",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Foot pain after injury",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Back surgery options",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Elbow pain and swelling",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Wrist fracture symptoms",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Hip pain and instability",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Knee pain after injury",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Leg cramps at night",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Back pain and sciatica",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Shoulder pain and stiffness",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Broken finger treatment",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Knee pain and swelling",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Hip pain and inflammation",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Back pain from lifting",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Foot pain and bruising",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Knee injury recovery",
+    "class": "Orthopedic Surgery",
+    "class_id": 33
+  },
+  {
+    "query": "Having trouble hearing in one ear",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Snoring with loud noises",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Throat pain with fever",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Voice hoarseness lasting weeks",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Tinnitus in both ears",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Sore throat with white spots",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Nasal congestion with postnasal drip",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Ear pain with fluid drainage",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Chronic cough with mucus",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Loud breathing during sleep",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Thick mucus from nose",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Hoarse voice with fatigue",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Earache with pressure",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Sudden hearing loss in one ear",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Sore throat with swollen glands",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Nosebleeds without cause",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Muffled hearing with ringing",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Swollen lymph nodes in neck",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Difficulty swallowing with pain",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Nasal stuffiness with headache",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Throat irritation with dryness",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Ear fullness with pressure",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Sneezing with runny nose",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Voice changes with stress",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Tongue pain with ulcers",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Nose stuffiness with fatigue",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Sudden hearing loss with dizziness",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Throat pain with redness",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Nasal congestion with sinus pain",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Hoarse voice with frequent yelling",
+    "class": "Otolaryngology",
+    "class_id": 35
+  },
+  {
+    "query": "Plantar fasciitis pain in heel",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Heel pain that wakes me up at night",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Soreness under the ball of my foot",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Blisters on my feet from shoes",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Foot pain after long walks",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Swelling on the side of my foot",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Tingling in my toes",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Footing pain that feels like a stone",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Burning sensation in my foot",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Foot blister from wearing shoes",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Redness and swelling on my foot",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Foot pain after standing all day",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Tingling in my foot from sitting too long",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Foot numbness when walking",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Heel pain that gets worse in the morning",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Foot pain that comes and goes",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Blisters on both feet from hiking",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Foot pain after running",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Swelling in the arch of my foot",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Foot pain that shoots up my leg",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Tingling in both feet at night",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Foot pain that feels like a bruise",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Heel pain that doesn't go away",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Foot pain with no obvious cause",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Tingling in my foot from a fall",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Foot pain that gets worse with activity",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Blisters from wearing socks all day",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Foot pain after a long day of work",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Tingling in my foot from standing too long",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Foot pain that feels like a knot",
+    "class": "Podiatry",
+    "class_id": 42
+  },
+  {
+    "query": "Cancer and pain management options",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "End-of-life care for my spouse",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Palliative care for chronic illness",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Symptoms of hospice care",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "How to get hospice services",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Palliative care for heart failure",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Hospice near me for terminal illness",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Palliative care for cancer patients",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Coping with terminal illness",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Hospice for advanced lung disease",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Palliative care for dementia",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Hospice for liver failure",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Palliative care for COPD",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Hospice services for stage 4 cancer",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Palliative care for pain relief",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Hospice care for terminal illness",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Palliative care for cancer treatment",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Hospice for end-stage illness",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Palliative care for chronic pain",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Hospice for metastatic cancer",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Palliative care for advanced illness",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Hospice for severe illness",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Palliative care for terminal disease",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Hospice for cancer patients",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Palliative care for end-of-life care",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Hospice for heart problems",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Palliative care for terminal cancer",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Hospice for advanced disease",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Palliative care for severe symptoms",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Hospice for life-limiting illness",
+    "class": "Hospice and Palliative Care",
+    "class_id": 21
+  },
+  {
+    "query": "Eye pain when reading",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Blurry vision in one eye",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Floaters in my vision",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye redness and irritation",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Sudden vision loss",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye itching and burning",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Dark spots in my field of view",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye dryness and discomfort",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye swelling and pain",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Light sensitivity in eyes",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye discharge and redness",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye fatigue after long screen time",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Vision changes in both eyes",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain with head injury",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye redness after crying",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain that worsens at night",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain with neck strain",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain after staring at a screen",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain with head movement",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain and headache together",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain with tooth pain",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain with sinus issues",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain with earache",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain with jaw pain",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain with neck pain",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain with shoulder pain",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain with face pain",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain with temple pain",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain with forehead pain",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain with cheek pain",
+    "class": "Ophthalmology",
+    "class_id": 31
+  },
+  {
+    "query": "Eye pain after long screen time",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Blurry vision in one eye",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Dry eyes from computer use",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye strain from reading",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Tingling in my eyes",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye redness with watering",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Sudden vision loss in one eye",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye itching with discharge",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with head pressure",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Wearing contacts causes eye pain",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye fatigue after driving",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye swelling with pain",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain behind the eye",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye irritation from wind",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with light sensitivity",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye redness without discharge",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with headaches",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain from bright lights",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with coughing",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with bending over",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with sudden movement",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with fatigue",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with eye closure",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with eye movement",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with eye pressure",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with eye twitching",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with eye swelling",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with eye fatigue",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with eye strain",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "Eye pain with eye discomfort",
+    "class": "Optometry",
+    "class_id": 32
+  },
+  {
+    "query": "I need help with chronic back pain",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "My leg is numb and I feel weak",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I have trouble walking after surgery",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm recovering from a knee replacement",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "My shoulder pain won't go away",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm having trouble with balance and coordination",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I need advice on physical therapy after a stroke",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I have persistent fatigue after an injury",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm struggling with mobility after a car accident",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm not able to lift things without pain",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I have recurring headaches and dizziness",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I need help with rehabilitation after a spinal injury",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm having trouble with muscle weakness on one side",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm recovering from a hip fracture",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I need guidance on managing pain after a surgery",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm having trouble with joint stiffness",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm trying to regain strength after a sports injury",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I have difficulty moving my fingers",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I need help with physical therapy for a brain injury",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm experiencing pain in my neck and shoulders",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm trying to improve my balance and coordination",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I need assistance with daily activities after an injury",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I have trouble with reflexes and movement",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm recovering from a heart attack",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm having trouble with muscle spasms",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I need help with rehabilitation after a fall",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm struggling with mobility and independence",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I have difficulty with posture and movement",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I need advice on physical therapy for a stroke",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "I'm having trouble with coordination and control",
+    "class": "Physical Medicine and Rehabilitation",
+    "class_id": 38
+  },
+  {
+    "query": "Anesthesia for surgery",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Pain during surgery",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Nerve damage after anesthesia",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia side effects",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and memory loss",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia risks",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia for childbirth",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and drowsiness",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia recovery time",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia for dental work",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia for minor procedures",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and nausea",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and confusion",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia for elderly patients",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and heart problems",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and breathing issues",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia for children",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and allergies",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and swelling",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and stiffness",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and fatigue",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and sleepiness",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and numbness",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and muscle weakness",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and headaches",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and vomiting",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and anxiety",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and pain relief",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia for cancer treatment",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Anesthesia and infection risk",
+    "class": "Anesthesiology",
+    "class_id": 4
+  },
+  {
+    "query": "Red, scaly patches on hands",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Itchiness on my neck that won't go away",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Pimple-like bumps on my face",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Skin turning red after sun exposure",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Flaky skin on my arms and legs",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Blisters on my feet from no apparent cause",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Purple spots on my legs",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Dry, cracked skin on my heels",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Rash that comes and goes on my chest",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Sudden skin discoloration on my forehead",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Bumps that feel itchy and sore",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Skin irritation after using new soap",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Rash spreading on my arms and legs",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Dark spots on my face that don't fade",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Sudden rash after eating something",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Skin peeling on my forehead",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Red bumps on my cheeks",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Itchy skin that doesn't stop",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Skin flaking in winter",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Blisters on my hands from washing dishes",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Redness and pain on my shin",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Skin discoloration under my eyes",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Bumps that come and go on my back",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Itchy rash on my arms",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Skin irritation after swimming in a pool",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Red patches on my knees",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Sudden skin rash after a haircut",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Skin that feels tight and dry",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Bumps on my neck that are painful",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "Red, raised spots on my forehead",
+    "class": "Dermatology",
+    "class_id": 14
+  },
+  {
+    "query": "nighttime trouble falling asleep",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "can't stay asleep through the night",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleeping a lot but still feel tired",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleeping too much during the day",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "difficulty falling asleep on weekends",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "waking up a lot during the night",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleeping poorly after dinner",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "restless legs syndrome symptoms",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleeping too much but not feeling refreshed",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "feeling sleepy during the day even after sleep",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleep issues after a stressful day",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleeping irregularly due to work schedule",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleep disturbances in children",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleep problems with a cold or flu",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleeping more than 9 hours a night",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleeping too little but still tired",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "difficulty falling asleep in the evening",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleep issues related to anxiety",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleep problems after a big meal",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleeping through the night but waking up tired",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleeping a lot but not able to concentrate",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleep disturbances during pregnancy",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleep problems with a new baby",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleep issues after a head injury",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleeping too much but no one else is tired",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleep problems with a new job",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleep disturbances in elderly adults",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleeping too much but not feeling rested",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleep issues after a surgery",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "sleep problems with a new medication",
+    "class": "Sleep Medicine",
+    "class_id": 47
+  },
+  {
+    "query": "Nightmare-like dreams and fatigue",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Stiff neck and shoulder pain",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Tingling in fingers and toes",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Persistent cough with mucus",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Frequent headaches and dizziness",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Swelling in legs and ankles",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Sudden weight loss and hunger",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Bowel movements change in pattern",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Blood in stool and cramps",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Fatigue and muscle aches",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Difficulty concentrating and memory loss",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Nausea and vomiting without cause",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Unexplained bruising and pain",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Cold hands and feet despite warmth",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Persistent sneezing and runny nose",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Sudden vision blurring and light sensitivity",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Irregular heartbeat and palpitations",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Shortness of breath and chest tightness",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Persistent earache and hearing loss",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Sudden confusion and forgetfulness",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Frequent urination and thirst",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Itchy rash and skin redness",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Unexplained fever and chills",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Numbness in hand or foot",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Persistent back pain and stiffness",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Sudden mood changes and anxiety",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Fatigue and inability to sleep",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Sudden weight gain and swelling",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Stomach pain and bloating",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Persistent ringing in ears",
+    "class": "Diagnostic Radiology",
+    "class_id": 15
+  },
+  {
+    "query": "Family member has unusual birthmarks",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Child frequently gets infections",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Losing hair with age",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Frequent nosebleeds without cause",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Swollen joints since childhood",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Developmental delays in toddler",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Family history of heart issues",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Eyesight problems in both eyes",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Unexplained weight loss and fatigue",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Skin rashes that come and go",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Sudden hearing loss in one ear",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Recurrent ear infections",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Family cancer history",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Tingling in hands and feet",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Sleeping a lot but not tired",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Birth defects in multiple family members",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Unusual bruising easily",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Frequent stomach aches in child",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Family heart rhythm issues",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Sudden speech changes",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Eyesight worsening quickly",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Unexplained skin pigmentation changes",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Frequent nosebleeds in child",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Family mental health history",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Tingling in legs at night",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Unexplained muscle weakness",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Frequent colds and coughs",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Family blood clot history",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Sudden vision loss in one eye",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Unexplained skin growths",
+    "class": "Medical Genetics and Genomics",
+    "class_id": 24
+  },
+  {
+    "query": "Headache that won't go away",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Memory problems getting worse",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Stiff neck and confusion",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Falling often without knowing why",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Tingling in hands and feet",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Seizures lately",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Trouble focusing and losing balance",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Dizziness and blurred vision",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Swelling in legs and confusion",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Sudden speech difficulties",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Numbness on one side",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Feeling faint and shaky",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Sleeping a lot but not feeling well",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Strange noises in ears",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Fatigue and mood changes",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Loss of appetite and confusion",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Walking clumsily",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Severe migraines with nausea",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Sudden hearing loss",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Unexplained weight loss and anxiety",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Confusion and trouble speaking",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Sudden vision loss in one eye",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Tingling in fingers and weakness",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Memory lapses and mood swings",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Stiffness in joints and fatigue",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Headache with stiff neck",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Trouble with balance and coordination",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Sudden changes in behavior",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Dizziness and difficulty walking",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Swollen hands and feet",
+    "class": "Neurology",
+    "class_id": 25
+  },
+  {
+    "query": "Nuclear medicine scans for pain in my chest",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "My doctor said I need a nuclear scan for my thyroid",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "I\u2019m worried about a nuclear medicine test",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Nuclear medicine for bone pain diagnosis",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "I had a nuclear scan and it was abnormal",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "What does a nuclear medicine scan show?",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Nuclear medicine for heart problems",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "I\u2019m concerned about my heart with nuclear tests",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Nuclear medicine for thyroid issues",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Why would I need a nuclear medicine test?",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Nuclear medicine and cancer detection",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "I have a lump and need nuclear imaging",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Nuclear medicine for liver problems",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "What\u2019s involved in a nuclear medicine scan?",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "I\u2019m scared of nuclear medicine procedures",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Nuclear medicine for joint pain",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "I need to schedule a nuclear medicine exam",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Nuclear medicine for brain disorders",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "What are the risks of nuclear medicine?",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "I have symptoms and need nuclear testing",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Nuclear medicine for cancer staging",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "I\u2019m looking for nuclear medicine clinics",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Nuclear medicine and radiation exposure",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "I\u2019m concerned about radiation from nuclear tests",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Nuclear medicine for lung conditions",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "What happens during a nuclear medicine scan?",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "I need help with nuclear medicine insurance",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Nuclear medicine for abdominal pain",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "I have a family history of cancer and nuclear tests",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Nuclear medicine for neurological issues",
+    "class": "Nuclear Medicine",
+    "class_id": 27
+  },
+  {
+    "query": "Managing withdrawal symptoms from alcohol",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Opioid use and difficulty sleeping",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Trying to quit smoking but struggling",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Nausea and shaking after drug use",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Fatigue from long-term substance use",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Tiredness and mood swings after meth use",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Cravings for benzodiazepines",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Drug use affecting my job performance",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Hypertension and substance use",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Withdrawal from prescription pain meds",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Sleep issues with marijuana use",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Addiction affecting family relationships",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Sudden weight loss with drug use",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Anxiety and depression from alcohol",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Drug use leading to missed work",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Dizziness after using inhalants",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Tremors and anxiety from cocaine",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Fatigue and irritability from heroin",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Withdrawal from stimulants",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Mood changes with cannabis use",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Addiction impacting school performance",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Nausea and dizziness from meth",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Sleep problems with prescription drugs",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Cravings for opioids",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Drug use causing memory loss",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Withdrawal symptoms from benzodiazepines",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Tiredness from long-term drug use",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Anxiety and restlessness from drugs",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Addiction affecting daily life",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Fatigue and confusion after drug use",
+    "class": "Addiction Medicine",
+    "class_id": 0
+  },
+  {
+    "query": "Allergy causing sneezing and itchy eyes",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Nasal congestion with possible allergy",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Itchy skin after eating new food",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergic reaction to pollen season",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Red, itchy rash on hands",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergy symptoms worsening this week",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Swelling around eyes and mouth",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergy to bees and stings",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Coughing with postnasal drip",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergy to dust mites in home",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Sneezing all day long",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergy symptoms in children",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Hives after taking medication",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergy to certain foods",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Itchy skin with red bumps",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergy to pet dander",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Rash after swimming in pool",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergy to flowers in garden",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Nasal stuffiness and headaches",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergy symptoms in winter",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Itchy eyes and runny nose",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergy to mold in house",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Sneezing and coughing together",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergy to certain foods",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Red, raised patches on skin",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergy symptoms lasting weeks",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Itchy mouth and throat",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergy to insect bites",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Rash with itching and burning",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Allergy to outdoor plants",
+    "class": "Allergy/ Immunology",
+    "class_id": 3
+  },
+  {
+    "query": "Trouble hearing in one ear",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Muffled hearing when talking",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing loss after a cold",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Tinnitus that won\u2019t go away",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Strange sounds in my ears",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing better in one ear",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Difficulty understanding speech",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Ear pain with hearing loss",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing changes suddenly",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Noise in my ears all day",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing loss in my child",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Earache with muffled hearing",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing problems after a head injury",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Tinnitus and hearing loss",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing better when I tilt my head",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing loss in both ears",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Ear discomfort with ringing",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing issues during sleep",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Tinnitus that gets worse at night",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing loss from loud noises",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Ear pressure with hearing changes",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing problems after a flu",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Tinnitus and ringing in ears",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing loss with dizziness",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Ear pain and hearing trouble",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing issues with a cold",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Tinnitus and muffled hearing",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing loss in one ear only",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Ear discomfort and ringing sounds",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hearing problems with a head injury",
+    "class": "Audiologist",
+    "class_id": 5
+  },
+  {
+    "query": "Hand pain that won't go away",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Numbness in my fingers",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Pain when gripping objects",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Tingling in my hand at night",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Wrist injury that won't heal",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Hand swelling and stiffness",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Pain in the palm of my hand",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Popping sound in my wrist",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Difficulty lifting heavy things",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Hand injury from a fall",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Pain in the thumb joint",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Wrist pain after sports",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Hand weakness and fatigue",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Popping in my hand joint",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Tendons in my hand hurting",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Hand injury from a cut",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Pain in the little finger",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Wrist pain that comes and goes",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Hand swelling after an injury",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Thumb pain that radiates",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Pain in the back of my hand",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Wrist stiffness and pain",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Hand injury from a sports game",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Pain in the palm and wrist",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Hand numbness with tingling",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Wrist pain from repetitive motion",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Hand injury from a sharp object",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Pain in the middle finger",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Wrist swelling and pain",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "Hand injury that won't stop hurting",
+    "class": "Hand Surgery",
+    "class_id": 20
+  },
+  {
+    "query": "fever and cough for 3 days",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "pain in my shoulder blade",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "headache and fatigue for 2 weeks",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "swollen glands and fever",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "difficulty breathing at night",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "persistent stomach ache",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "rash on my arms and legs",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "itching all over body",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "nausea and vomiting",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "joint pain and stiffness",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "heartburn and indigestion",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "constant tiredness and weight loss",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "cold symptoms lasting weeks",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "unexplained weight loss",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "night sweats and fever",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "chest pain and shortness of breath",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "difficulty swallowing",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "swelling in my feet",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "irritability and mood changes",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "memory problems and confusion",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "persistent nosebleeds",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "sudden changes in vision",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "pain in my lower back",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "dry cough with mucus",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "feeling lightheaded",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "itchy skin and red bumps",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "loss of appetite and bloating",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "fever with chills and body aches",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "pain in my ears",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "headache with blurred vision",
+    "class": "Physician Assistant",
+    "class_id": 40
+  },
+  {
+    "query": "After a car accident, I need plastic surgery for a scar.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "My nose is crooked after a childhood injury.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I have a burn on my hand from a hot pot.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I\u2019m worried about a lump on my face.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I need help with a skin graft after a severe injury.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I have a keloid scar on my elbow.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I\u2019m looking for surgery to fix a cleft lip.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I have a deep cut on my leg that won\u2019t heal.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I need a facelift after significant weight loss.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I\u2019m concerned about a skin cancer diagnosis.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I have a tattoo that looks uneven.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I need surgery for a wound from a fall.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I\u2019m looking for a surgeon to fix a nosebleed.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I have a cyst on my neck that\u2019s painful.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I need help with a torn muscle in my face.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I\u2019m worried about a facial asymmetry.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I have a broken nose and want to correct it.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I need a skin removal surgery for a mole.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I\u2019m looking for a surgeon to fix a lip injury.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I have a severe scar from an accident.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I need help with a facial reconstruction after trauma.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I\u2019m concerned about a skin ulcer on my leg.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I have a deformity from a childhood illness.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I need surgery for a severe sunburn.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I\u2019m worried about a skin growth on my face.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I have a wound that\u2019s not healing properly.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I need a surgeon for a facial trauma repair.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I\u2019m looking for help with a facial defect from surgery.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I have a scar that\u2019s causing emotional distress.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "I need a procedure to fix a broken jaw.",
+    "class": "Plastic and Reconstructive Surgery",
+    "class_id": 41
+  },
+  {
+    "query": "Frequency of urination",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Blood in urine",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection symptoms",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Difficulty starting urine flow",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Pain during urination",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary incontinence",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Frequent nighttime urination",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary retention",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Bladder pain",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary urgency",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Weak stream when urinating",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Pain in lower abdomen",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection treatment",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection causes",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection duration",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection home remedies",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection prevention",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection symptoms in women",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection symptoms in men",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection recurrence",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection after sex",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection in children",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection in elderly",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection medication",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection natural remedies",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection test",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection home care",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection diet",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection symptoms duration",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Urinary tract infection treatment options",
+    "class": "Urology",
+    "class_id": 49
+  },
+  {
+    "query": "Toothache that won\u2019t go away",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Bad tooth pain after eating",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Mouth sores that won\u2019t heal",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Tooth sensitivity when drinking cold things",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Dentist for chipped tooth",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Loose tooth causing worry",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Gum pain near the front teeth",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Tooth pain that gets worse at night",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Missing tooth affecting speech",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Swollen gums with bleeding",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Tooth decay on front tooth",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Tooth pain after a filling",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Gum infection around a tooth",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Tooth pain with bad breath",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Dentist for broken tooth",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Toothache that comes and goes",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Gum line irritation",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Tooth pain from a cavity",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Dentist for root canal",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Tooth pain that doesn\u2019t respond to over-the-counter meds",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Gum recession around teeth",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Tooth pain after a dental procedure",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Dentist for dental cleaning",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Tooth pain with difficulty chewing",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Gum pain that doesn\u2019t go away",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Toothache that started recently",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Dentist for tooth extraction",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Tooth pain with a swollen cheek",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Gum infection that\u2019s spreading",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Tooth pain that gets worse with pressure",
+    "class": "Dentist",
+    "class_id": 13
+  },
+  {
+    "query": "Fall prevention strategies for older adults",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Memory loss in my 70-year-old parent",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Managing chronic pain in seniors",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Slurred speech and confusion in my grandmother",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Difficulty walking with age",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior depression symptoms and treatment",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Balance issues and risk of falling",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior sleep disturbances",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Memory problems in elderly patients",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Frequent urination in older men",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Fatigue in elderly women",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior heart symptoms to watch for",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Dizziness in older adults",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior nutrition tips",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Cognitive decline in 80-year-old",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior mobility challenges",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior mental health concerns",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Difficulty swallowing in elderly",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior hearing loss effects",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior vision problems",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior digestive issues",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior respiratory symptoms",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior joint pain management",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior skin care concerns",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior fatigue causes",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior weight loss concerns",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior digestion issues",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior mobility aid options",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior mental health support",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "Senior memory loss solutions",
+    "class": "Geriatric Medicine",
+    "class_id": 19
+  },
+  {
+    "query": "CT scan for blood clots in leg",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Treatment for blocked arteries in legs",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Pain in leg after leg surgery",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "When to see interventional radiologist",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Minimally invasive surgery for kidney stones",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "How to get rid of leg swelling quickly",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Non-surgical treatment for varicose veins",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Need a procedure for deep vein thrombosis",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "What's the alternative to open surgery",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Treatment for aneurysm in abdomen",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Pain from atherosclerosis in legs",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "How to fix blocked arteries without surgery",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Should I get an angiogram",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Leg pain from poor blood flow",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Non-invasive way to treat clots",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "When is a catheter procedure needed",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Treatment for abdominal aortic aneurysm",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Pain from a blood clot in leg",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "How to get a leg angiogram",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Minimally invasive treatment for clots",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "What's the best way to treat a blockage",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Need a procedure for leg pain",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "How to treat leg swelling from clots",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "When is surgery needed for leg pain",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Treatment for leg cramps from clots",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Non-surgical options for leg blockages",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "What's the procedure for clots in legs",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "How to get a catheter placement",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "Treatment for leg pain and clots",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "When to get a vascular procedure",
+    "class": "Interventional Radiology",
+    "class_id": 23
+  },
+  {
+    "query": "back pain relief with osteopathy",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "treatment for chronic neck pain",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "do osteopaths help with headaches",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "osteopathy for sciatica relief",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "pain from herniated disc",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "osteopathy for lower back pain",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "can osteopathy help with arthritis",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "how does osteopathy treat joint pain",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "osteopathy for muscle tension",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "pain in shoulders from poor posture",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "osteopathy for migraines",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "relieve carpal tunnel with osteopathy",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "osteopathy for tennis elbow",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "pain in hips from sitting too long",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "osteopathy for sprains",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "does osteopathy work for sciatica",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "osteopathy for fibromyalgia",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "pain in legs from sitting too long",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "osteopathy for sports injuries",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "relieve leg cramps with osteopathy",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "osteopathy for nerve pain",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "pain in feet from overuse",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "osteopathy for sciatica",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "relieve lower back pain with osteopathy",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "osteopathy for neck stiffness",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "pain in shoulders from computer use",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "osteopathy for joint pain",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "does osteopathy help with back pain",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "osteopathy for muscle soreness",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "relieve pain from whiplash with osteopathy",
+    "class": "Osteopathic Manipulative Medicine",
+    "class_id": 34
+  },
+  {
+    "query": "anxiety and trouble sleeping",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "depressed mood lasting weeks",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "thinking about suicide",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "loss of interest in activities",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "feeling overwhelmed all the time",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "mood swings without reason",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "difficulty concentrating",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "chronic stress and fatigue",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "feeling hopeless and unmotivated",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "social withdrawal and isolation",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "changes in appetite and weight",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "irritability and anger issues",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "hallucinations and paranoia",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "memory problems and confusion",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "restless legs and insomnia",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "panic attacks and heart palpitations",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "chronic pain with no clear cause",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "low energy and constant tiredness",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "withdrawal from friends and family",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "difficulty making decisions",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "feeling detached from reality",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "mood changes with no trigger",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "nightmares and sleep disturbances",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "unexplained weight loss or gain",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "chronic loneliness and sadness",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "difficulty managing daily tasks",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "feeling numb and disconnected",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "mood swings and emotional instability",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "excessive worry and anxiety",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "withdrawal from work and responsibilities",
+    "class": "Psychiatry",
+    "class_id": 44
+  },
+  {
+    "query": "My child has a heart defect since birth",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "I'm worried about my daughter's heart condition",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "What are the symptoms of congenital heart disease?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "Can congenital heart disease be cured?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "My baby was born with a heart issue",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "How does congenital heart disease affect children?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "What should I do if my child has a heart problem?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "I'm concerned about my son's heart health",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "Is congenital heart disease hereditary?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "My child is having trouble breathing",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "What are the long-term effects of heart defects?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "How can I help my child with heart disease?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "My child's heart is not beating right",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "I need advice on congenital heart disease",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "What causes congenital heart defects?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "My child is having chest pain",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "Are there treatments for heart defects?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "I'm worried about my child's heart growth",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "What are the risks of congenital heart disease?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "How do I know if my child has a heart issue?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "My child is showing signs of heart disease",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "What are the common heart problems in babies?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "I'm looking for support for a child with heart disease",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "How does heart disease affect a child's life?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "My child's heart is not working properly",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "What are the symptoms in adults with congenital heart disease?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "I'm concerned about my adult child's heart health",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "How can I find a specialist for heart disease?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "What are the treatment options for heart defects?",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "My child is struggling with heart-related issues",
+    "class": "Adult Congenital Heart Disease",
+    "class_id": 1
+  },
+  {
+    "query": "heart failure symptoms and treatments",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "experiencing shortness of breath at night",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "tired and swollen legs with heart failure",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "what to do if I have a heart attack",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and lifestyle changes",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "symptoms of advanced heart failure",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "can heart failure be reversed?",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and exercise advice",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "how to manage heart failure diet",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and fluid retention",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "feeling faint with heart failure",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and medication side effects",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "advanced heart failure care options",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and sleep problems",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "what causes end-stage heart failure",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and mental health",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure symptoms in older adults",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and chest pain",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "advanced heart failure prognosis",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and fluid buildup",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure treatment options",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "symptoms of heart failure worsening",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and activity levels",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and oxygen therapy",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and heart transplant eligibility",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and heart valve issues",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and fatigue management",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and weight gain",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and heart rhythm problems",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "heart failure and heart attack risk",
+    "class": "Advanced Heart Failure and Transplant Cardiology",
+    "class_id": 2
+  },
+  {
+    "query": "My heart feels heavy and I\u2019m short of breath",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I had a heart attack and need surgery options",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m experiencing chest pain and worry it\u2019s serious",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m concerned about my family\u2019s heart health",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I had surgery and now have trouble breathing",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "My chest pain won\u2019t go away, what should I do?",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m worried about a possible heart condition",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I had a heart procedure, what are the risks?",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I feel tired all the time, could it be heart-related?",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m preparing for cardiac surgery, what to expect",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I had a heart valve replacement, now I\u2019m dizzy",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m experiencing palpitations, should I see a doctor?",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m recovering from heart surgery, need advice",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I had a heart attack, what are the next steps?",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m worried about my heart rhythm",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I had a bypass surgery, now I have pain",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m experiencing shortness of breath at night",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m concerned about my cholesterol levels",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I had a heart procedure, what are the side effects?",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m feeling weak after heart surgery",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m worried about my heart health in my 50s",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I had a heart operation, what\u2019s the recovery like?",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m experiencing chest pain with exertion",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m concerned about my heart rate",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I had a heart procedure, need more information",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m worried about a heart murmur",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m experiencing dizziness and chest discomfort",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I had a heart surgery, what\u2019s the follow-up?",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m concerned about heart disease risk factors",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "I\u2019m experiencing fatigue and heart palpitations",
+    "class": "Cardiac Surgery",
+    "class_id": 6
+  },
+  {
+    "query": "My chest hurts and it feels like my heart is racing",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I have trouble breathing and my legs are swelling",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve been feeling dizzy and my heart feels heavy",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve had a family history of heart disease",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019m experiencing chest pain after eating",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve had irregular heartbeats for months",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019m short of breath when I walk",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "My blood pressure has been really high lately",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I feel tired all the time and my heart is slow",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I have a bad cough and my chest feels tight",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve been losing weight without knowing why",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve had a heart attack in the past",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019m worried about my cholesterol levels",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve had chest pain that lasts a long time",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019m having trouble sleeping and my heart is racing",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve been feeling weak and my arms are numb",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019m concerned about my heart health as I age",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve had a stroke and I\u2019m worried about my heart",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019m having palpitations and I\u2019m worried",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve been feeling anxious and my heart is fast",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve had chest pain and my doctor says it\u2019s stress",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019m having leg swelling and my heart is weak",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve had heartburn and it\u2019s been going on for weeks",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019m worried about my arteries and blood flow",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve had a heart murmur and I\u2019m concerned",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019m experiencing chest pain and shortness of breath",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve had a high cholesterol level recently",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019m feeling faint and my heart is not beating right",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019ve had a previous heart surgery and I\u2019m worried",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "I\u2019m concerned about my blood pressure and heart health",
+    "class": "Cardiovascular Disease (Cardiology)",
+    "class_id": 7
+  },
+  {
+    "query": "Pregnant and need help with labor",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Looking for a midwife during pregnancy",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Birthing classes with a certified nurse midwife",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Help with postpartum care",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Midwife for home birth",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Nurse midwife for low-risk pregnancy",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Need a midwife for my first baby",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Midwife services near me",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Pregnancy care with a nurse midwife",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Midwife for miscarriage support",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Nurse midwife for early pregnancy",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Help with birth planning",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Midwife for gestational diabetes",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Nurse midwife during delivery",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Postpartum depression support",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Midwife for pelvic floor issues",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Nurse midwife for premature birth",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Help with baby care after birth",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Midwife for family planning",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Nurse midwife for infertility",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Pregnancy symptoms and care",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Midwife for breastfeeding support",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Nurse midwife for childbirth education",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Help with pregnancy complications",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Midwife for prenatal checkups",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Nurse midwife for safe delivery",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Postpartum care options",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Midwife for pregnancy loss",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Nurse midwife for baby health",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "Help with natural birth options",
+    "class": "Certified Nurse Midwife",
+    "class_id": 9
+  },
+  {
+    "query": "My wife has pain after surgery, what can we do?",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I need a specialist for post-op nerve pain.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "What if my pain doesn\u2019t go away after surgery?",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m worried about my mother\u2019s pain management.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "How do I know if I need a CRNA?",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I had a complicated surgery, need help with pain.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "My child\u2019s pain isn\u2019t improving, what\u2019s next?",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m experiencing severe pain, should I see a CRNA?",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "What if my pain is from a previous surgery?",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m scared of pain after my procedure.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I need help with chronic pain after surgery.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m having difficulty breathing with pain, what\u2019s wrong?",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "My pain is worse than before, what could it be?",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m not getting relief from my pain medication.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m concerned about my pain during recovery.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I had a long surgery, need pain relief now.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m not sure if my pain is normal after surgery.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "What are the options for pain management after surgery?",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m in a lot of pain, what should I do?",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I need help controlling my post-op pain.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m having trouble sleeping because of the pain.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m worried about my pain level after the procedure.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "What if my pain is a sign of something worse?",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m not feeling well with my pain, what\u2019s the issue?",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I need a second opinion on my pain treatment.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m having pain that won\u2019t stop, what can I do?",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m concerned about my recovery with pain.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I need help with pain after a major surgery.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m experiencing pain that started after the procedure.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "I\u2019m not sure if my pain is from the surgery.",
+    "class": "Certified Registered Nurse Anesthetist (CRNA)",
+    "class_id": 10
+  },
+  {
+    "query": "My heart feels irregular lately, what could it be?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019ve been having trouble with my heartbeat, should I worry?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "My ECG results were strange, what does that mean?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019m experiencing chest pain, is it related to my heart?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I have palpitations, what could be causing that?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019m feeling dizzy and my heart races, what\u2019s wrong?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019ve had sudden pauses in my heartbeat, is that serious?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "My heart skips a beat sometimes, what does that mean?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019m concerned about my arrhythmia, what should I do?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019ve been short of breath, could it be a heart issue?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I have a fluttering sensation in my chest, is that normal?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019m experiencing frequent heartburn, is that related to my heart?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019ve had a heart rhythm problem, what tests are needed?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019m worried about my heart rate, it\u2019s too fast or too slow.",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019ve been feeling unexplained fatigue, could it be heart-related?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I have a history of heart disease, should I be concerned?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019m noticing a irregular heartbeat, what could it be?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019ve had episodes of fainting, is that a heart problem?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019m worried about my heart valves, what should I check?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019ve been having chest discomfort, is it heart-related?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019m concerned about my heart rhythm, what are the signs?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I have a family history of heart issues, what should I watch for?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019m experiencing shortness of breath with activity, is that normal?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019ve had a recent heart attack, what\u2019s next?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019m worried about my heart failure symptoms, what do they feel like?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019m having trouble sleeping due to heart issues, what can I do?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019ve been feeling weak and tired, could it be heart-related?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019m concerned about my heart\u2019s electrical system, what does that mean?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019ve had sudden heart palpitations, what should I do?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  },
+  {
+    "query": "I\u2019m experiencing chest tightness, is that a heart problem?",
+    "class": "Clinical Cardiac Electrophysiology",
+    "class_id": 12
+  }
+]
